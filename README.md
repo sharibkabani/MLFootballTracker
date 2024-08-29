@@ -26,19 +26,23 @@ The system is capable of:
 **Software:**
 
 Python: The primary programming language used for this project.
+
 OpenCV: A powerful open-source computer vision library for image and video processing tasks.
-TensorFlow: A popular deep learning framework for building and training neural networks.
+
 YOLO: A state-of-the-art object detection algorithm implemented in TensorFlow.
+
 scikit-learn: A machine learning library for tasks such as clustering and data analysis.
+
 Jupyter Notebook: An interactive environment for developing and testing code.
+
 Git: A version control system for tracking changes to the project's code.
 
 **Libraries:**
 
 NumPy: A fundamental library for numerical computing in Python.
+
 Matplotlib: A plotting library for creating visualizations.
+
 Pillow: A Python Imaging Library for image manipulation.
+
 pandas: A data analysis library for working with structured data.
-tqdm: A progress bar library for monitoring the execution of long-running tasks.
-glob: A library for finding files that match a pattern.
-os: A library for interacting with the operating system.
